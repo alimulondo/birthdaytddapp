@@ -1,0 +1,4 @@
+##Test Driven Development
+
+This app demonstrates a strict following of TDD methodology where specification is designed from the test cases
+And the implementation is done by making sure tests pass.
